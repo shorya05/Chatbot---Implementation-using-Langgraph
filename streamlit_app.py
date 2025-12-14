@@ -4,7 +4,7 @@ import uuid
 
 # ================= CONFIG =================
 API_URL = "http://localhost:8000/chat"   # change if deployed
-APP_TITLE = "🧠 AI Research & Persona Agent"
+APP_TITLE = "Chatbot"
 
 # ================= SESSION =================
 if "session_id" not in st.session_state:
