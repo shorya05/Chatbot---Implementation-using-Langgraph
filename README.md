@@ -1,5 +1,3 @@
-# Chatbot---Implementation-using-Langgraph
-
 # 🤖 AI Chatbot using LangGraph & Perplexity AI
 
 A **production-ready AI chatbot** built using **FastAPI**, **LangGraph**, and **Perplexity AI**, featuring a **single-agent decision-based architecture** and a **Streamlit chat interface**.  
